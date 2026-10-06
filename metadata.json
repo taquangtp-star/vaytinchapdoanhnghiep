@@ -1,0 +1,6 @@
+{
+  "name": "VPBank Vốn Doanh Nghiệp & Hộ Kinh Doanh",
+  "description": "Giải pháp cấp vốn tín chấp kinh doanh 500 triệu - 2 tỷ không giữ giấy tờ gốc từ VPBank cho Chủ Doanh Nghiệp & Hộ Kinh Doanh tại Hà Nội - Bắc Ninh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
